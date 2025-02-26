@@ -1,4 +1,4 @@
 TgCrypto
-pyrogram
+pyrogram==1.4.16
 motor
 git+https://github.com/ytdl-org/youtube-dl
