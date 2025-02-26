@@ -7,7 +7,6 @@ from pyrogram.types import (InlineKeyboardButton,
                             InputMediaDocument,
                             InputMediaVideo,
                             InputMediaAudio)
-from pyrogram.errors import ContinuePropagation
 
 from helper.ffmfunc import duration
 from helper.ytdlfunc import downloadvideocli, downloadaudiocli
